@@ -1,17 +1,7 @@
 # OUTPUT
 
-## 1. Button pressed once for two seconds
-![on](https://user-images.githubusercontent.com/101030179/168251121-8df7fd82-7ebb-4e77-9e31-d89c19f239c7.png)
-
-
-## 2. Button  pressed once again for two seconds
-* Car is on ACC mode that means car turned off.
-![2](https://user-images.githubusercontent.com/101174057/167471797-064b7e26-b759-406b-a06f-d0ad0b37e4e6.png)
-
-## 3. Button pressed for second time
-* Wiper turned on.
-![3](https://user-images.githubusercontent.com/101174057/167471813-450ece14-5020-4a9d-a4f4-a8d41955ab58.png)
-
-## 4. Button pressed for thrd time
-* Wiper turned off. 
-![4](https://user-images.githubusercontent.com/101174057/167471826-916c1217-138d-4ebe-abf3-507395863fa4.png)
+![output](https://user-images.githubusercontent.com/101082480/168464377-a2113289-8dda-4e06-ae8a-93c325133939.jpeg)
+![outut1](https://user-images.githubusercontent.com/101082480/168464437-059a25b4-ea91-49ed-a6ee-bc3a20757a14.jpeg)
+![output2](https://user-images.githubusercontent.com/101082480/168464453-e3ce514c-edac-4d72-a1f5-ecb4dcdcc121.jpeg)
+![output3](https://user-images.githubusercontent.com/101082480/168464465-0b019efa-240c-43c1-87cd-be75325cba53.jpeg)
+![output4](https://user-images.githubusercontent.com/101082480/168464477-60cc141c-b56d-4c68-9e7b-22b811edef65.jpeg)
