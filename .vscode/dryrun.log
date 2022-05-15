@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory `C:\Users\B ANIL\Downloads\M3_WIPER_CONTROL_SYSTEM'
+make.exe: Leaving directory  `C:\Users\B ANIL\Downloads\M3_WIPER_CONTROL_SYSTEM'
+ 
+make.exe: *** No targets specified and no makefile found.  Stop.
+
